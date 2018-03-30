@@ -1,4 +1,4 @@
-My solutions to the Introduction to Java Programming 10th edition by Y. Daniel Liang.
+<h3>My solutions to the Introduction to Java Programming 10th edition by Y. Daniel Liang.</h3>
 
 by <a href="https://about.me/mdrubelrana-tt" style="color: #00ddfa; font-size: 11px;" target="_blank">Md Rubel Rana</a>
 
